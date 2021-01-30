@@ -1,0 +1,12 @@
+D:\Engin Demirog\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\Engin Demirog\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\Engin Demirog\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\Engin Demirog\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\Engin Demirog\KampIntro\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache

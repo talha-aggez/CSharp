@@ -1,0 +1,13 @@
+D:\Engin Demirog\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+D:\Engin Demirog\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+D:\Engin Demirog\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+D:\Engin Demirog\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+D:\Engin Demirog\KampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+D:\Engin Demirog\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+D:\Engin Demirog\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+D:\Engin Demirog\KampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache

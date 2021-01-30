@@ -1,0 +1,13 @@
+D:\Engin Demirog\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.exe
+D:\Engin Demirog\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.deps.json
+D:\Engin Demirog\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.json
+D:\Engin Demirog\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.dll
+D:\Engin Demirog\KampIntro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.pdb
+D:\Engin Demirog\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.dll
+D:\Engin Demirog\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.pdb
+D:\Engin Demirog\KampIntro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.genruntimeconfig.cache

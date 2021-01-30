@@ -1,0 +1,13 @@
+D:\Engin Demirog\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\Engin Demirog\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\Engin Demirog\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\Engin Demirog\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Engin Demirog\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Engin Demirog\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Engin Demirog\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Engin Demirog\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Engin Demirog\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+D:\Engin Demirog\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+D:\Engin Demirog\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+D:\Engin Demirog\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+D:\Engin Demirog\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+D:\Engin Demirog\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+D:\Engin Demirog\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+D:\Engin Demirog\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache
