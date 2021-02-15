@@ -1,0 +1,15 @@
+D:\Engin Demirog\KampIntro\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.exe
+D:\Engin Demirog\KampIntro\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.deps.json
+D:\Engin Demirog\KampIntro\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.runtimeconfig.json
+D:\Engin Demirog\KampIntro\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.dll
+D:\Engin Demirog\KampIntro\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.pdb
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.Form1.resources
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.csproj.GenerateResource.cache
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.dll
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.pdb
+D:\Engin Demirog\KampIntro\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\Engin Demirog\KampIntro\Reflection\bin\Debug\Reflection.exe.config
+D:\Engin Demirog\KampIntro\Reflection\bin\Debug\Reflection.exe
+D:\Engin Demirog\KampIntro\Reflection\bin\Debug\Reflection.pdb
+D:\Engin Demirog\KampIntro\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Reflection\obj\Debug\Reflection.exe
+D:\Engin Demirog\KampIntro\Reflection\obj\Debug\Reflection.pdb

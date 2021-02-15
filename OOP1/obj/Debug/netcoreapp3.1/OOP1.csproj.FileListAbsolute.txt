@@ -1,0 +1,13 @@
+D:\Engin Demirog\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+D:\Engin Demirog\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+D:\Engin Demirog\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+D:\Engin Demirog\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+D:\Engin Demirog\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+D:\Engin Demirog\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+D:\Engin Demirog\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+D:\Engin Demirog\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache

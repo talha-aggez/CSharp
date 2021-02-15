@@ -1,0 +1,7 @@
+D:\Engin Demirog\KampIntro\Events\bin\Debug\Events.exe.config
+D:\Engin Demirog\KampIntro\Events\bin\Debug\Events.exe
+D:\Engin Demirog\KampIntro\Events\bin\Debug\Events.pdb
+D:\Engin Demirog\KampIntro\Events\obj\Debug\Events.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Events\obj\Debug\Events.exe
+D:\Engin Demirog\KampIntro\Events\obj\Debug\Events.pdb

@@ -1,0 +1,7 @@
+D:\Engin Demirog\KampIntro\Attributes\obj\Debug\Attributes.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Attributes\bin\Debug\Attributes.exe.config
+D:\Engin Demirog\KampIntro\Attributes\bin\Debug\Attributes.exe
+D:\Engin Demirog\KampIntro\Attributes\bin\Debug\Attributes.pdb
+D:\Engin Demirog\KampIntro\Attributes\obj\Debug\Attributes.exe
+D:\Engin Demirog\KampIntro\Attributes\obj\Debug\Attributes.pdb

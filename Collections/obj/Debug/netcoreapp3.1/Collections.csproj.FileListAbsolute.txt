@@ -10,3 +10,4 @@ D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.cspro
 D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
 D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
 D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+D:\Engin Demirog\KampIntro\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache

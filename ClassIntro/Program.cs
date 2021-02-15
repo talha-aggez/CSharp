@@ -45,4 +45,9 @@ namespace ClassIntro
         public int IzlenmeOrani { get; set; }
 
     }
+    class CustomerManager
+    {
+        public void Add() { }
+        public void Update() { }
+    }
 }

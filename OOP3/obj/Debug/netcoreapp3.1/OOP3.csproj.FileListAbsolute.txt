@@ -1,0 +1,4 @@
+D:\Engin Demirog\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache

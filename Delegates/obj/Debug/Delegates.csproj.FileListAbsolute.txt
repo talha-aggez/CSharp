@@ -1,0 +1,7 @@
+D:\Engin Demirog\KampIntro\Delegates\bin\Debug\Delegates.exe.config
+D:\Engin Demirog\KampIntro\Delegates\bin\Debug\Delegates.exe
+D:\Engin Demirog\KampIntro\Delegates\bin\Debug\Delegates.pdb
+D:\Engin Demirog\KampIntro\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\Delegates\obj\Debug\Delegates.exe
+D:\Engin Demirog\KampIntro\Delegates\obj\Debug\Delegates.pdb
